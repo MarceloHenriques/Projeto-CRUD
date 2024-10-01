@@ -1,4 +1,6 @@
-***  Projeto de Cadastramento de Vendedores - Santander Coders 2024 ***
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# Projeto de Cadastramento de Vendedores - Santander Coders 2024
 
 Este projeto foi desenvolvido durante o curso Santander Coders 2024, no módulo de Programação Orientada a Objetos (POO). O objetivo do projeto é implementar um sistema de cadastramento de vendedores de uma loja, utilizando os princípios da orientação a objetos e as operações básicas de um sistema CRUD (Create, Read, Update, Delete).
 
